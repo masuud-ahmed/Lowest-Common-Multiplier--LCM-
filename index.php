@@ -6,7 +6,7 @@
     <title>Lowest Common Multiplier (LCM)</title>
 </head>
 <body>
-    <h1>Name: Masud Ahmed Yusuf <br> ID: C1211446</h1>
+  
 <?php
 function calculateLCM($a = 12, $b = 18) {
     $max = ($a > $b) ? $a : $b;
